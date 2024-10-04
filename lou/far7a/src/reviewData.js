@@ -1,0 +1,123 @@
+// reviewData.js  
+export const reviews = [  
+    {  
+        avatarSrc: "/path/to/image1.jpg",  
+        name: "Sarah",  
+        rating: 4,  
+        reviewText: "Great platform! It makes managing club events so much easier and keeps members engaged with real-time updates.",  
+    },  
+    {  
+        avatarSrc: "/path/to/image2.jpg",  
+        name: "John",  
+        rating: 5,  
+        reviewText: "Excellent service! Highly recommended for event management.",  
+    },  
+    {  
+        avatarSrc: "/path/to/image3.jpg",  
+        name: "Emily",  
+        rating: 3,  
+        reviewText: "It works well, but there are some features I wish were improved.",  
+    },  
+    {  
+        avatarSrc: "/path/to/image4.jpg",  
+        name: "Michael",  
+        rating: 5,  
+        reviewText: "Fantastic experience! Very user-friendly interface.",  
+    },  
+    {  
+        avatarSrc: "/path/to/image5.jpg",  
+        name: "Jessica",  
+        rating: 4,  
+        reviewText: "Good value for the price. Helped organize our events smoothly.",  
+    },  
+    {  
+        avatarSrc: "/path/to/image6.jpg",  
+        name: "David",  
+        rating: 2,  
+        reviewText: "It has potential, but I faced several bugs.",  
+    },  
+    {  
+        avatarSrc: "/path/to/image7.jpg",  
+        name: "Laura",  
+        rating: 5,  
+        reviewText: "Absolutely love this platform! Makes everything so simple.",  
+    },  
+    {  
+        avatarSrc: "/path/to/image8.jpg",  
+        name: "Steve",  
+        rating: 4,  
+        reviewText: "Great support and easy to use. Would recommend!",  
+    },  
+    {  
+        avatarSrc: "/path/to/image9.jpg",  
+        name: "Megan",  
+        rating: 3,  
+        reviewText: "Decent app, but it could improve some features.",  
+    },  
+    {  
+        avatarSrc: "/path/to/image10.jpg",  
+        name: "James",  
+        rating: 5,  
+        reviewText: "Best tool for managing community events hands down!",  
+    },  
+    {  
+        avatarSrc: "/path/to/image11.jpg",  
+        name: "Isabella",  
+        rating: 4,  
+        reviewText: "Really impressed with the functionality and ease of use.",  
+    },  
+    {  
+        avatarSrc: "/path/to/image12.jpg",  
+        name: "Ryan",  
+        rating: 1,  
+        reviewText: "I had a terrible experience and won't be using it again.",  
+    },  
+    {  
+        avatarSrc: "/path/to/image13.jpg",  
+        name: "Sophie",  
+        rating: 4,  
+        reviewText: "A solid application that meets my needs quite well.",  
+    },  
+    {  
+        avatarSrc: "/path/to/image14.jpg",  
+        name: "William",  
+        rating: 5,  
+        reviewText: "Superb tool! Simplified our event planning process.",  
+    },  
+    {  
+        avatarSrc: "/path/to/image15.jpg",  
+        name: "Olivia",  
+        rating: 3,  
+        reviewText: "It’s okay, but there’s room for improvement.",  
+    },  
+    {  
+        avatarSrc: "/path/to/image16.jpg",  
+        name: "Daniel",  
+        rating: 4,  
+        reviewText: "Very helpful platform, and the team is responsive!",  
+    },  
+    {  
+        avatarSrc: "/path/to/image17.jpg",  
+        name: "Ava",  
+        rating: 5,  
+        reviewText: "I can't recommend this enough! It’s made my life much easier.",  
+    },  
+    {  
+        avatarSrc: "/path/to/image18.jpg",  
+        name: "Thomas",  
+        rating: 2,  
+        reviewText: "Not what I expected. Many features are missing.",  
+    },  
+    {  
+        avatarSrc: "/path/to/image19.jpg",  
+        name: "Chloe",  
+        rating: 4,  
+        reviewText: "Great app with lots of features. Very happy with it.",  
+    },  
+    {  
+        avatarSrc: "/path/to/image20.jpg",  
+        name: "Matthew",  
+        rating: 5,  
+        reviewText: "Incredible experience overall, will definitely continue using it.",  
+    },  
+];
